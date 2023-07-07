@@ -69,7 +69,7 @@ A Raspberry Pi is linked to a HC12 module to recover flight data and send contro
 <img align="centered" height="350" src="https://github.com/joseph-elf/RagnarokRocket/assets/61538081/be9730b2-278d-46ca-8c6f-d8431c5484e0">
 
 #### Launch Remote Control
-A little remote send the launch signal to the fire mechanism. HC12 is again used. To avoid false launch signal, the remote is bilateraly connected and has to respect a precise launch sequence.
+A little remote send the launch signal to the fire mechanism. HC12 is again used. To avoid false launch signal, the remote and fire mechanism are bilateraly connected and have to respect a precise launch sequence.
 
 <img align="center" height="350" src="https://github.com/joseph-elf/RagnarokRocket/assets/61538081/906ee7c8-555c-48c9-8391-a8bfe31b9b46">
 
